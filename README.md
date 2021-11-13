@@ -1,2 +1,2 @@
-# yandex.praktikum
+# Portfolio
 educational projects
