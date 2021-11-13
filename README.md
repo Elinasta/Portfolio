@@ -1,2 +1,2 @@
 # Portfolio
-educational projects
+analytical projects
