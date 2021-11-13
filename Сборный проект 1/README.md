@@ -1,2 +1,0 @@
-# yandex.praktikum
-educational projects
